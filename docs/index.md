@@ -6,10 +6,9 @@
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-<<<<<<< HEAD
 | [DHCP Project](/DHCP-Project/){ .md-button .md-button--primary } | Click for fast enter it :)  |
-=======
-| [DHCP Project](/DHCP-Project/){ .md-button .md-button--primary } | Click for fast enter it  :)  |
->>>>>>> 481a8a7e150132f17d482e8de6320b195286b61e
 |       |  |
 |    | |
+
+
+## tes
