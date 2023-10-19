@@ -16,4 +16,4 @@
 
 - Keempat, Setelah selesai import. Setting PNETLab seperti gambar dibawah:
 
-![Image title](../img/.jpg)
+![Image title](../img/SettingPLETLab.jpg)

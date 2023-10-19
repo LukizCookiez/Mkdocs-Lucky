@@ -6,9 +6,9 @@
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| [DHCP Project](/DHCP-Project/){ .md-button .md-button--primary } | Click for fast enter it :)  |
-|       |  |
-|    | |
+| [DHCP Project](dhcp-project/DHCP-Project.md){ .md-button .md-button--primary } | Click for fast enter it |
+| [SSH](SSH/Project-SSH.md){ .md-button .md-button--primary } | Click for fast enter |
+| [PnetLab](PnetLab/PnetLab.md){ .md-button .md-button--primary } | Click for fast enter |
 
 
 
