@@ -2,13 +2,13 @@
 
 # Welcome to Lucky Mkdocs Lucky
 
-## silahkan menilai atau melihat-lihat project saya. untuk melihat project saya, click (contoh: DHCP Project di tabble di bawah)
+## silahkan menilai atau melihat-lihat project saya. untuk melihat project saya, click table di bawah atau 
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| [DHCP Project](dhcp-project/DHCP-Project.md){ .md-button .md-button--primary } | Click for fast enter it |
-| [SSH](SSH/Project-SSH.md){ .md-button .md-button--primary } | Click for fast enter |
-| [PnetLab](PnetLab/PnetLab.md){ .md-button .md-button--primary } | Click for fast enter |
+| [DHCP Project](dhcp-project/DHCP-Project.md){ .md-button .md-button--primary } | Click here for fast enter my content|
+| [SSH](SSH/Project-SSH.md){ .md-button .md-button--primary } | Click for fast enter my content |
+| [PnetLab](PnetLab/PnetLab.md){ .md-button .md-button--primary } | Click for fast enter my content |
 
 
 
