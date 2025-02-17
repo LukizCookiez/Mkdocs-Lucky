@@ -2,20 +2,21 @@ site_name: Lucky Project
 theme:
   logo: img/project-management.png
   favicon: img/project-management.png
-features:
-  - content.code.copy
-  - toc.integrate
-  - navigation.top
-  - navigation.prune
-  - navigation.tabs
-  - navigation.sections
-  - search.highlight
-  - search suggest
-  - content.code.anitation
+
+  features:
+    - content.code.copy
+    - toc.integrate
+    - navigation.top
+    - navigation.prune
+    - navigation.tabs
+    - navigation.sevtions
+    - search.highlight
+    - search suggest
+    - content.code.anitation
   
   name: material
   
- palette:
+  palette:
   - scheme: purple
     toggle:
     icon: material/toggle-switch-off-outline
@@ -23,16 +24,20 @@ features:
     primary: 
     accent: purple
     scheme: slate
+  
   toggle:
     icon: material/toggle-switch
     name: Switch to light mode
     primary: teal
     accent: line
 
-markdown_extensions:
-  - attr_list
+  markdown_extensions:
   - tables
   - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+
 extra:
   social:
     - icon: fontawesome/brands/instagram
