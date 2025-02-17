@@ -6,7 +6,7 @@
 
 ![Image title](../img/CloneDHCP.jpg)
 
-## 2.Menginstall Windows Xp
+## 2. Menginstall Windows Xp
 - Pertama-tama, Download cd `Windows Xp` agar bisa dimasukan ke VmWare
 - Kedua, Create a new virtual Machine pada Vmware, `pilih Typical`
 

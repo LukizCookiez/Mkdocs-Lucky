@@ -1,4 +1,4 @@
-# PNETLab Lucky
+# Cara Install PNETLab Dengan vmware
 
 ## 1. Cara Mendownload PnetLab 
 
